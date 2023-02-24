@@ -20,5 +20,5 @@
 
 🔗 Link para o Dashboard
 <div>
- <a href="https://app.powerbi.com/view?r=eyJrIjoiNzVjOGJiNDMtMTY0OC00MzI3LWIwNTMtODc2YTBhZTEwYzFlIiwidCI6IjQyYjFjMWEyLTE0NjItNDNkMy04OTExLTZkYzQ5N2I1YjUwMyJ9" target="_blank"><img src="https://i.ibb.co/jR4n2bm/icons8-power-bi-48.png" target="_blank"></a>
+ <a href="https://app.powerbi.com/view?r=eyJrIjoiNDFmYjcyNTctNzU4NC00Yzg2LWI5M2QtY2UwYTAxNGYwMGY5IiwidCI6IjQyYjFjMWEyLTE0NjItNDNkMy04OTExLTZkYzQ5N2I1YjUwMyJ9" target="_blank"><img src="https://i.ibb.co/jR4n2bm/icons8-power-bi-48.png" target="_blank"></a>
 </div>
